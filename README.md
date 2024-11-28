@@ -1,7 +1,6 @@
 # Spotify-Track-Dataset-Analysis
 The "Spotify Tracks Analysis" project uses Python to explore and visualize a Spotify dataset, uncovering song characteristics, patterns, and feature correlations with libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
-# SPOTIFY TRACK DATASET ANALYSIS #
 
 ![Image](https://github.com/user-attachments/assets/22902b0f-a436-4496-ae31-66c5d863340c)
 
